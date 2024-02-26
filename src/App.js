@@ -1,8 +1,8 @@
-
+import Body from "./components/Body";
 function App() {
   return (
     <div className="text-8xl text-red-500">
-        Tailwind CSS
+        <Body/>
     </div>
   );
 }
